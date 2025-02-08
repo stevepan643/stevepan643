@@ -21,6 +21,5 @@ Continuously learn and practice to improve my skills and create meaningful proje
 Hope to get involved in more challenging projects in the future, explore new possibilities, and achieve my dreams.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevepan643&layout=compact)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=stevepan643&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevepan643&show_icons=true&count_private=true&hide=prs)
 
