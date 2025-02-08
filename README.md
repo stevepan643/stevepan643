@@ -17,3 +17,6 @@ Goals
 
 Continuously learn and practice to improve my skills and create meaningful projects.
 Hope to get involved in more challenging projects in the future, explore new possibilities, and achieve my dreams.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevepan643&layout=compact)
+
