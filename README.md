@@ -1,7 +1,7 @@
 # Hello!!!
-- Hey! I'm Steve Pan。 
-- Passionate about technology, art, and innovation. Still learning. My idols are Steve Jobs and Elon Musk.
 > "Stay hungry, stay foolish." — Steve Jobs
+- 👋 Hey! I'm Steve Pan.
+- 👀 Passionate about technology, art, and innovation. Still learning. My idols are Steve Jobs and Elon Musk.
 
 ## Interests
 
